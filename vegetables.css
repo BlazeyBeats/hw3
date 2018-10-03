@@ -10,10 +10,10 @@
 .middle{
     padding:10px 160px;
     margin:1px;
-
+    width: 940px;
 }
 header{
-    width:940px;
+    
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -54,7 +54,7 @@ header p{
 
 
 .navigation ul {
-    width:940px;
+    
     border-radius: 3px;
     background-color: #778A50;
     display: flex;
@@ -85,7 +85,7 @@ header p{
     margin-bottom:0;
 }
 .articleheading{
-    width:940px;
+    
     display: flex;
     justify-content: space-between;
 }
@@ -118,7 +118,7 @@ header p{
     margin:16px 0;
 }
 .article{
-    width:940px;
+    
     display: flex;
     justify-content: space-between;
     margin-bottom: 0;
